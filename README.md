@@ -1,0 +1,4 @@
+# Kmeans
+基于MapReduce的Kmeans算法
+这个是我的大学毕业设计，也是第一次接触hadoop，是用最基础的mapreduce实现的
+原理和wordcount类似，之后会通过canopy算法对其进行优化
